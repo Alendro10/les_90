@@ -15,3 +15,8 @@ for (x,y,w,h) in cat_face:
  cat_with_glasses = cv2.imread("cat_with_glasses.png")
  cv2.imshow("Cat_with_glasses", cat_with_glasses)
  cv2.waitKey()
+#  #Запамятай команду: я тобі даю 2 слова а ти обєднуєш їх в 1 за значення
+# треба по значенню
+# Вода + вогонь = пар
+# вода + лава = каміння
+# за таким принципом
